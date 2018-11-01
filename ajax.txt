@@ -1,0 +1,11 @@
+ajax - can send a request by itself to a server
+where the http request object is attached a callback function (javascript function that you usually create first)
+create an https request object that contains the url that you want to send to the server 
+
+after sending the request, the javascript code just continues
+when web server automatically responds, the callback function automatically goes to the function and goes back the event hat triggered it
+
+usually there's a div function to get data from server and place it into an innerhtml 
+
+set up ajax call where it connects to a server 
+set up webpage somewhere make an ajx request to get the text on that page and put it on your page
